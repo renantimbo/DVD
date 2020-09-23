@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DVD.Context\DVD.Context.csproj" />
+    <ProjectReference Include="..\DVD.Util\DVD.Util.csproj" />
   </ItemGroup>
 
 
